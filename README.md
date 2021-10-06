@@ -44,6 +44,7 @@ Screenshot program untuk tab Manajemen File.
 	1. buat file baru dengan ekstensi .bat di notepad
 	2. isi dengan:
 		> cd /d "D:\PythonKu\gui\Cari_Buku"
+		
 		> start "" C:\Users\galih-hermawan\anaconda3\pythonw CariBuku.py
 		
 	3. Baris pertama memuat direktori dimana source code file python kita berada. Punya saya contohnya: "D:\PythonKu\gui\Cari_Buku"
