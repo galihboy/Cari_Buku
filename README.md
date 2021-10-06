@@ -31,9 +31,11 @@ Aplikasi ini digunakan untuk mencari dokumen digital (makalah, ebooks, dan berka
 	- Dapat melakukan pengindeksan ulang (biasanya setelah update data direktori)
  
 Screenshot program untuk tab Cari.
+
 ![Cari buku](/screenshot_1.jpg)
 
 Screenshot program untuk tab Manajemen File.
+
 ![Manajemen file](/screenshot_2.jpg)
 
 **Tips:**
