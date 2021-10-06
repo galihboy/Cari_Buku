@@ -23,7 +23,7 @@ Aplikasi ini digunakan untuk mencari dokumen digital (makalah, ebooks, dan berka
 		Semua  : mencakup semua jenis file
 		```
 	- Terdapat combobox untuk menampilkan Folder yang sudah disimpan di file direktori.txt, serta terdapat juga pilihan sub folder di dalam direktori tersebut
-	- ListBox digunakan untuk menampilkan daftar file hasil pencarian, dan dapat diklik ganda untuk dapat membuka file di program defalult-nya
+	- ListBox digunakan untuk menampilkan daftar file hasil pencarian, dan dapat diklik ganda untuk dapat membuka file di program default-nya
 	
 2. Manajemen File
 	- Menampilkan (line edit / text box) read-only yang meliputi: current directory (direktori aplikasi), nama file: indeks.txt dan direktori.txt
