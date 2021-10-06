@@ -39,11 +39,13 @@ Screenshot program untuk tab Manajemen File.
 **Tips:**
 - File python ini dapat dieksekusi secara langsung di sistem operasi Windows melalui perintah di file .bat (batch files)
 - Caranya adalah:
-	```
 	1. buat file baru dengan ekstensi .bat di notepad
 	2. isi dengan:
 		> cd /d "D:\PythonKu\gui\Cari_Buku"
 		> start "" C:\Users\galih-hermawan\anaconda3\pythonw CariBuku.py
+		
 	3. Baris pertama memuat direktori dimana source code file python kita berada. Punya saya contohnya: "D:\PythonKu\gui\Cari_Buku"
 	4. Baris kedua memuat alamat file pythonw.exe (sesuaikan, baik itu versi standalone atau anaconda), kemudian tambahkan nama file (source code). Punya saya contohnya: CariBuku.py
-	```
+- File .bat tadi dapat diberi nama apapun, misal. CariBuku.bat
+- Buat shortcut-nya , dan taruh di desktop
+- Selesai
