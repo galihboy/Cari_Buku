@@ -1,5 +1,5 @@
 ## Cari Buku
-###### Developed by [Galih Hermawan](https://galih.eu) | [Blog Medium](https://masgalih.medium.com).
+###### Developed by [Galih Hermawan](https://galih.eu) | [Blog](https://blog.galih.eu).
 ---
 
 Aplikasi ini digunakan untuk mencari dokumen digital (makalah, ebooks, dan berkas lain). Tadinya saya buat untuk menggantikan aplikasi pencarian buku lama yang masih menggunakan [VB6](https://github.com/galihboy/vb6-pencari-file).
