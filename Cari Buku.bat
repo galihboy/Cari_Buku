@@ -1,2 +1,2 @@
 cd /d "D:\PythonKu\gui\Cari_Buku"
-start "" C:\Users\galih-hermawan\anaconda3\pythonw CariBuku.py
+start "" D:\PythonKu\#venv\gui\Scripts\pythonw CariBuku.py
